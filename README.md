@@ -8,11 +8,36 @@ So basically sorting algorithms are used to arrange the elements in order either
 
 The program  (pro1.py) generate bars whose size can be entered by user with random values between range from Min_Value to Max_Value that is  also entered by  the user.Generate button is used for generating the rectangular bars.
 
+
+
+
+
 ![Bars](https://github.com/Aayushiy/Sorting-Visualiser/blob/master/images/GUI.png)
+
+
+
+
+
+
 
 And then the user can choose the sorting algorithm from menu and click on Start.
 
+
+
+
+
+
+
 ![sorting](https://github.com/Aayushiy/Sorting-Visualiser/blob/master/images/sorting.png)
+
+
+
+
+
+
+
+
+
 
 
 TA DA ! the bars are Sorted :))
