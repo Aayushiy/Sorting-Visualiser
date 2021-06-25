@@ -20,7 +20,11 @@ The program  (pro1.py) generate bars whose size can be entered by user with rand
 
 
 
-And then the user can choose the sorting algorithm from menu and click on Start.
+**And then the user can choose the sorting algorithm from menu and click on Start.**
+
+
+
+
 
 
 
@@ -40,6 +44,6 @@ And then the user can choose the sorting algorithm from menu and click on Start.
 
 
 
-TA DA ! the bars are Sorted :))
+### TA DA ! the bars are Sorted :))
 
 ![sorted](https://github.com/Aayushiy/Sorting-Visualiser/blob/master/images/sorted.png)
